@@ -1,0 +1,5 @@
+- Improved Resolver
+- Improved Prediction System
+- Improved DoubleTap (More Precise)
+
+Laste Update: 08/09/2021
